@@ -43,4 +43,4 @@ Used a 3-layer neural for function approximation.
 2. Optimizer: SGD with momentum
 3. beta: I have shown the results with beta = 0.8 and beta = 0.9
 4. learning_rate: I have shown the results for alpha = 0.05 and 0.001
-
+5. Loss function: Squared error loss
